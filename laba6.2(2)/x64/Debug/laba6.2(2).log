@@ -1,0 +1,5 @@
+﻿  laba6.2(2).cpp
+D:\АП візуал\laba6.2(2)\laba6.2(2)\laba6.2(2).cpp(53,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\АП візуал\laba6.2(2)\laba6.2(2)\laba6.2(2).cpp(33): warning C4715: 'arr': not all control paths return a value
+D:\АП візуал\laba6.2(2)\laba6.2(2)\laba6.2(2).cpp(17): warning C4715: 'rand': not all control paths return a value
+  laba6.2(2).vcxproj -> D:\АП візуал\laba6.2(2)\x64\Debug\laba6.2(2).exe
